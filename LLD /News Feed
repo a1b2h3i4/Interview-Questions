@@ -1,0 +1,12 @@
+Design system for content creation and publishing it.
+A place where many people come for either creating content or for viewing it.
+It can be creating from here only or importing from third website or mix of both.
+Content Viewing -- who can view,what audience can do over this content(Like,reactions,comment,share,download).
+
+
+function 
+1)user register => POST
+2)Get list default or public content => GET
+3) Create content  ==> POST
+4) importing 3rd party content => POST
+5)User action on content  => PUT
